@@ -86,8 +86,6 @@
                     ?>
                 </div>
             </div>        
-        </div>
-        <h2>HOSTNAME</h2>
     </div>
 </body>
 </html>
