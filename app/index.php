@@ -17,6 +17,10 @@
         table tr td:last-child a{
             margin-right: 15px;
         }
+        .btn-success {
+            background-color: #e00b14;
+        }
+        
     </style>
     <script type="text/javascript">
         $(document).ready(function(){
@@ -30,6 +34,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
+                        <img src="https://www.etisalat.ae/content/dam/etisalat/consumer/nwt/mega-menu/etisalat-logo/etisalat-logo.svg">
                         <h2 class="pull-left">Employees Details</h2>
                         <a href="create.php" class="btn btn-success pull-right">Add New Employee</a>
                     </div>
