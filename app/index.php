@@ -17,6 +17,9 @@
         table tr td:last-child a{
             margin-right: 15px;
         }
+        .btn-success {
+            background-color: #e00b14;
+        }
     </style>
     <script type="text/javascript">
         $(document).ready(function(){
