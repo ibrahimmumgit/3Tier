@@ -48,11 +48,11 @@
                             echo "<table class='table table-bordered table-striped'>";
                                 echo "<thead>";
                                     echo "<tr>";
-                                        echo "<th>#</th>";
-                                        echo "<th>Name</th>";
-                                        echo "<th>Address</th>";
-                                        echo "<th>Salary</th>";
-                                        echo "<th>Action</th>";
+                                        echo "<th style="background: red;color: white;">#</th>";
+                                        echo "<th style="background: red;color: white;">Name</th>";
+                                        echo "<th style="background: red;color: white;">Address</th>";
+                                        echo "<th style="background: red;color: white;">Salary</th>";
+                                        echo "<th style="background: red;color: white;">Action</th>";
                                     echo "</tr>";
                                 echo "</thead>";
                                 echo "<tbody>";
