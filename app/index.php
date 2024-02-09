@@ -20,7 +20,10 @@
         .btn-success {
             background-color: #e00b14;
         }
-        
+        th {
+            background-color: #e00b14;
+            color: white;
+        }
     </style>
     <script type="text/javascript">
         $(document).ready(function(){
