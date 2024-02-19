@@ -37,7 +37,7 @@
             <div class="row">
                 <div class="col-md-12">
                     <div class="page-header clearfix">
-                        <img src="https://www.logolynx.com/images/logolynx/61/6168ea1c7c17f03063ca217ccf2a708c.jpeg">
+                        <img src="https://www.logolynx.com/images/logolynx/61/6168ea1c7c17f03063ca217ccf2a708c.jpeg style="width: 60%;"">
                         <h2 class="pull-left">Employees Details</h2>
                         <a href="create.php" class="btn btn-success pull-right">Add New Employee</a>
                     </div>
